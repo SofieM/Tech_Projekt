@@ -1,0 +1,21 @@
+19/05/2020 21:00:10 Server: starting up on localhost port 10000
+19/05/2020 21:00:10 Server: waiting to receive message
+19/05/2020 21:00:13 Client: com-0 127.0.0.1
+19/05/2020 21:00:13 Server: com-0 accept 127.0.0.1
+19/05/2020 21:00:13 Client: com-0 accept
+19/05/2020 21:00:13 Server: three way handshake complete 
+
+19/05/2020 21:00:35 Server: starting up on localhost port 10000
+19/05/2020 21:00:35 Server: waiting to receive message
+19/05/2020 21:00:37 Client: com-0 127.0.0.1
+19/05/2020 21:00:38 Server: com-0 accept 127.0.0.1
+19/05/2020 21:00:38 Client: com-0 accept
+19/05/2020 21:00:38 Server: three way handshake complete 
+
+20/05/2020 08:57:39 Server: starting up on localhost port 10000
+20/05/2020 08:57:39 Server: waiting to receive message
+20/05/2020 08:57:42 Client: com-0 127.0.0.1
+20/05/2020 08:57:42 Server: com-0 accept 127.0.0.1
+20/05/2020 08:57:42 Client: com-0 accept
+20/05/2020 08:57:42 Server: three way handshake complete 
+
